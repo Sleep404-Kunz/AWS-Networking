@@ -80,6 +80,3 @@ The VPC is configured and the necessary security group to connect to external IP
 ## Conclusion
 
 With this we have created a custom VPC and deployed an EC2 instance within it which is allowed to be accessed by external public IPs using the HTTP service.
-
-   
-vpc-0562e5d25783882de
